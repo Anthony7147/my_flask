@@ -1,4 +1,4 @@
 {
-  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3",
-  "python.jediEnabled": false
+  "python.pythonPath": "/Users/anthonyknoll/.local/share/virtualenvs/my_flask-zMsPA5aG/bin/python",
+  "python.linting.pylintEnabled": false
 }
